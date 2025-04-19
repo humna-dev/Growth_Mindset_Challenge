@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [project]
 name = "growth-mindset-app"
 version = "0.1.0"
@@ -5,3 +6,12 @@ description = "A Streamlit web app to promote growth mindset."
 dependencies = [
     "streamlit"
 ]
+=======
+[project]
+name = "growth-mindset-app"
+version = "0.1.0"
+description = "A Streamlit web app to promote growth mindset."
+dependencies = [
+    "streamlit"
+]
+>>>>>>> e8356b63e81851f6d70a298d88a8bae93b9c4fd7
