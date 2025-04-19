@@ -1,0 +1,7 @@
+[project]
+name = "growth-mindset-app"
+version = "0.1.0"
+description = "A Streamlit web app to promote growth mindset."
+dependencies = [
+    "streamlit"
+]
